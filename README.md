@@ -15,7 +15,7 @@ My first repository.
 
 ---
 
-> "When you miss a line in the game, you reset. When you miss a line on the track, you could die." - Jack Salter
+> "*When you miss a line in the game, you reset. When you miss a line on the track, you could die.*" -**Jack Salter**
 
 ---
 
